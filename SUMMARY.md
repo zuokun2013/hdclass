@@ -14,4 +14,8 @@
   * [《如何做一个标准居士》（二）](di-yi-ce/ru-he-zuo-yi-ge-biao-zhun-ju-shi-er.md)
   * [《浅谈因果关系》](di-yi-ce/qian-tan-yin-guo-guan-xi.md)
   * [《佛法融入生活》（一）](di-yi-ce/fo-fa-rong-ru-sheng-huo-yi.md)
+  * [《佛法融入生活》（二）](di-yi-ce/fo-fa-rong-ru-sheng-huo-er.md)
+  * [《佛教的定义》](di-yi-ce/fo-jiao-de-ding-yi.md)
+  * [《解脱的原理》](di-yi-ce/jie-tuo-de-yuan-li.md)
+  * [《对初学者的教诲》](di-yi-ce/dui-chu-xue-zhe-de-jiao-hui.md)
 
