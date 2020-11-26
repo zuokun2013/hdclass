@@ -73,5 +73,7 @@
   * [教材第三册 音视频链接](di-san-ce/jiao-cai-di-san-ce-yin-shi-pin-lian-jie.md)
 * [四加行](si-jia-hang/README.md)
   * [入坐与出坐及人身难得自修与学修安排](si-jia-hang/ru-zuo-yu-chu-zuo-ji-ren-shen-nan-de-zi-xiu-yu-xue-xiu-an-pai.md)
+  * [寿命无常 自修与学修安排](si-jia-hang/shou-ming-wu-chang-zi-xiu-yu-xue-xiu-an-pai.md)
+  * [轮回过患 自修与学修安排](si-jia-hang/lun-hui-guo-huan-zi-xiu-yu-xue-xiu-an-pai.md)
 * [五加行](wu-jia-hang.md)
 
