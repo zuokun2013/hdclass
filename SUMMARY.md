@@ -71,6 +71,7 @@
   * [《金刚上师与灌顶》](di-san-ce/jin-gang-shang-shi-yu-guan-ding.md)
   * [《前行念诵仪轨·开显解脱道》](di-san-ce/qian-hang-nian-song-yi-gui-kai-xian-jie-tuo-dao.md)
   * [教材第三册 音视频链接](di-san-ce/jiao-cai-di-san-ce-yin-shi-pin-lian-jie.md)
-* [四加行](si-jia-hang.md)
+* [四加行](si-jia-hang/README.md)
+  * [入坐与出坐及人身难得自修与学修安排](si-jia-hang/ru-zuo-yu-chu-zuo-ji-ren-shen-nan-de-zi-xiu-yu-xue-xiu-an-pai.md)
 * [五加行](wu-jia-hang.md)
 
