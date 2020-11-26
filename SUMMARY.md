@@ -9,4 +9,9 @@
   * [第二课 《三殊胜》（中）](di-yi-ce/di-er-ke-san-shu-sheng-zhong.md)
   * [《三殊胜》（下）](di-yi-ce/san-shu-sheng-xia.md)
   * [《生存的方式和生存的意义》](di-yi-ce/sheng-cun-de-fang-shi-he-sheng-cun-de-yi-yi.md)
+  * [《佛教徒的生活模式》](di-yi-ce/fo-jiao-tu-de-sheng-huo-mo-shi.md)
+  * [《如何做一个标准居士》（一）](di-yi-ce/ru-he-zuo-yi-ge-biao-zhun-ju-shi-yi.md)
+  * [《如何做一个标准居士》（二）](di-yi-ce/ru-he-zuo-yi-ge-biao-zhun-ju-shi-er.md)
+  * [《浅谈因果关系》](di-yi-ce/qian-tan-yin-guo-guan-xi.md)
+  * [《佛法融入生活》（一）](di-yi-ce/fo-fa-rong-ru-sheng-huo-yi.md)
 
