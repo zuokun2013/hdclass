@@ -1,6 +1,6 @@
 # 学修说明～第三册（四外加行）
 
-HDZG\_ZEN 慧灯之光禅修 9/17
+[HDZG\_ZEN 慧灯之光禅修](https://mp.weixin.qq.com/mp/homepage?__biz=MzI2NTQ1NDcxNg==&hid=8&sn=3d9136ef9366472153d002863627d36d&scene=18) 9/17
 
 一、第三册（四外加行）学修总述
 
