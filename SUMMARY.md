@@ -78,4 +78,6 @@
   * [因果不虚及其他修法 自修与学修安排](si-jia-hang/yin-guo-bu-xu-ji-qi-ta-xiu-fa-zi-xiu-yu-xue-xiu-an-pai.md)
 * [五加行](wu-jia-hang/README.md)
   * [五加行学修说明——皈依](wu-jia-hang/wu-jia-hang-xue-xiu-shuo-ming-gui-yi.md)
+  * [五加行学修说明——菩提心](wu-jia-hang/wu-jia-hang-xue-xiu-shuo-ming-pu-ti-xin.md)
+  * [五加行学修说明——金刚萨埵](wu-jia-hang/wu-jia-hang-xue-xiu-shuo-ming-jin-gang-sa-duo.md)
 
