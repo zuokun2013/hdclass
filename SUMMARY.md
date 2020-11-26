@@ -76,5 +76,6 @@
   * [寿命无常 自修与学修安排](si-jia-hang/shou-ming-wu-chang-zi-xiu-yu-xue-xiu-an-pai.md)
   * [轮回过患 自修与学修安排](si-jia-hang/lun-hui-guo-huan-zi-xiu-yu-xue-xiu-an-pai.md)
   * [因果不虚及其他修法 自修与学修安排](si-jia-hang/yin-guo-bu-xu-ji-qi-ta-xiu-fa-zi-xiu-yu-xue-xiu-an-pai.md)
-* [五加行](wu-jia-hang.md)
+* [五加行](wu-jia-hang/README.md)
+  * [五加行学修说明——皈依](wu-jia-hang/wu-jia-hang-xue-xiu-shuo-ming-gui-yi.md)
 
