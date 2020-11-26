@@ -40,7 +40,8 @@
   * [《佛教的物种起源说》](di-er-ce/fo-jiao-de-wu-zhong-qi-yuan-shuo.md)
   * [《佛教的世界观》](di-er-ce/fo-jiao-de-shi-jie-guan.md)
   * [《语加持的修法》](di-er-ce/yu-jia-chi-de-xiu-fa.md)
-* [第三册](di-san-ce.md)
+* [第三册](di-san-ce/README.md)
+  * [学修说明～第三册（四外加行）](di-san-ce/xue-xiu-shuo-ming-di-san-ce-si-wai-jia-hang.md)
 * [四加行](si-jia-hang.md)
 * [五加行](wu-jia-hang.md)
 
