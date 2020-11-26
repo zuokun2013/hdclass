@@ -1,6 +1,6 @@
 # 学修说明～第一册
 
-### 学修说明～第一册 <a id="activity-name"></a>
+### [学修说明～第一册](https://mp.weixin.qq.com/mp/homepage?__biz=MzI2NTQ1NDcxNg==&hid=8&sn=3d9136ef9366472153d002863627d36d&scene=18) <a id="activity-name"></a>
 
 HDZG\_ZEN 慧灯之光禅修  _9/15_
 
