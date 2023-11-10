@@ -14,3 +14,7 @@ New-PSDrive -Name "j" -PSProvider FileSystem -Root "\\192.168.1.222\sambashare\d
   whisper --language Chinese --task transcribe --model base 'j:\金密钥\课程视频\慧灯禅修课\慧灯禅修课第三册\02-3 慧灯禅修课4 人身难得3.mp4'
 
   whisper --language Chinese --task transcribe --model medium '/Volumes/easyshare-12t/金密钥/课程音频/慧灯禅修课/慧灯禅修课第三册/04-4 慧灯禅修课12 轮回痛苦4.mp3'
+
+  whisper --language Chinese --task transcribe --model base '/mnt/easystore-12t/金密钥/课程视频/慧灯禅修课/慧灯禅修课第三册/05-5 慧灯禅修课17 因果不虚5.mp4'
+
+  nohup whisper --language Chinese --task transcribe --model small '/mnt/easystore-12t/金密钥/课程视频/慧灯禅修课/慧灯禅修课第三册/05-5 慧灯禅修课17 因果不虚5.mp4' > 因果不虚5.txt &
