@@ -3,5 +3,6 @@
   "better-export-pdf",
   "number-headings-obsidian",
   "automatic-table-of-contents",
-  "cycle-through-panes"
+  "cycle-through-panes",
+  "header-adjuster"
 ]
