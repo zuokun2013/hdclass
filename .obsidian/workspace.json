@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vse/3/03-1 慧灯禅修课6 寿命无常1.srt.md",
+                "file": "vse/3/03-2 慧灯禅修课7 寿命无常2.srt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vse/3/03-1 慧灯禅修课6 寿命无常1.srt.md",
+                "file": "vse/3/03-2 慧灯禅修课7 寿命无常2.srt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vse/3/03-1 慧灯禅修课6 寿命无常1.srt.md",
+                "file": "vse/3/03-2 慧灯禅修课7 寿命无常2.srt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vse/3/03-1 慧灯禅修课6 寿命无常1.srt.md"
+                "file": "vse/3/03-2 慧灯禅修课7 寿命无常2.srt.md"
               }
             }
           }
@@ -143,11 +143,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "header-adjuster:Adjust Headers": false
     }
   },
   "active": "3c5b16e3fcbb4d0d",
   "lastOpenFiles": [
+    "vse/3/03-1 慧灯禅修课6 寿命无常1.srt.md",
     "vse/3/02-1 慧灯禅修课2 人身难得1.srt.md",
     "vse/3/02-4 慧灯禅修课5 人身难得4.srt.md",
     "vse/3/02-3 慧灯禅修课4 人身难得3.srt.md",
