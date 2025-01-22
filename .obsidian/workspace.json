@@ -11,15 +11,28 @@
             "id": "3c5b16e3fcbb4d0d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1d16ac5883682123",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "vse/4/01-3 慧灯禅修课23 加行的修法-皈依3.srt.md",
+                "file": "vse/4/02-2 慧灯禅修课25 加行的修法-菩提心2.srt.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "02-2 慧灯禅修课25 加行的修法-菩提心2.srt"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,9 +67,11 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +79,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "right": {
     "id": "caa993f9e7dedd97",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vse/4/01-3 慧灯禅修课23 加行的修法-皈依3.srt.md",
+                "file": "vse/3/01 慧灯禅修课1 入坐与出坐.srt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01 慧灯禅修课1 入坐与出坐.srt"
             }
           },
           {
@@ -102,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vse/4/01-3 慧灯禅修课23 加行的修法-皈依3.srt.md",
+                "file": "vse/3/01 慧灯禅修课1 入坐与出坐.srt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01 慧灯禅修课1 入坐与出坐.srt"
             }
           },
           {
@@ -116,7 +139,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vse/4/01-3 慧灯禅修课23 加行的修法-皈依3.srt.md"
-              }
+                "file": "vse/4/02-2 慧灯禅修课25 加行的修法-菩提心2.srt.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02-2 慧灯禅修课25 加行的修法-菩提心2.srt"
             }
           }
         ],
@@ -147,8 +174,14 @@
       "header-adjuster:Adjust Headers": false
     }
   },
-  "active": "3c5b16e3fcbb4d0d",
+  "active": "1d16ac5883682123",
   "lastOpenFiles": [
+    "vse/4/02-3 慧灯禅修课26 加行的修法-菩提心3.srt.md",
+    "vse/4/02-4 慧灯禅修课27 加行的修法-菩提心4.srt.md",
+    "vse/3/00 慧灯禅修课 介绍慧灯禅修.srt.md",
+    "vse/3/01 慧灯禅修课1 入坐与出坐.srt.md",
+    "wip/Note01.md",
+    "wip/Untitled.md",
     "vse/4/02-1 慧灯禅修课24 加行的修法-菩提心1.srt.md",
     "vse/4/01-3 慧灯禅修课23 加行的修法-皈依3.srt.md",
     "vse/4/01-2 慧灯禅修课22 加行的修法-皈依2.srt.md",
@@ -169,12 +202,6 @@
     "vse/3/04-4 慧灯禅修课12 轮回痛苦4.srt.md",
     "vse/3/04-3 慧灯禅修课11 轮回痛苦3.srt.md",
     "vse/3/04-2 慧灯禅修课10 轮回痛苦2.srt.md",
-    "wip/Note01.md",
-    "vse/4/01-1 慧灯禅修课21 加行的修法-皈依1.srt.md",
-    "vse/3/06-1 慧灯禅修课19 解脱利益.srt.md",
-    "vse/3/06-2 慧灯禅修课20 依止上师.srt.md",
-    "vse/4/02-2 慧灯禅修课25 加行的修法-菩提心2.srt.md",
-    "vse/4/03-1 慧灯禅修课28 加行的修法-金刚萨埵1.srt.md",
     "vse/4/《量理宝藏论》-全论科判.pdf",
     "vse/4/《入行论释·善说海》讲解第78课.mp4.cyberducksegment/2.cyberducksegment",
     "vse/4/《入行论释·善说海》讲解第78课.mp4.cyberducksegment/4.cyberducksegment",
